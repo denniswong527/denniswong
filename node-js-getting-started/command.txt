@@ -1,0 +1,6 @@
+heroku login
+git add .
+git commit -m "Add cool face API"
+git push heroku main
+
+heroku local
